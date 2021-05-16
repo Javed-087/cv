@@ -1,0 +1,20 @@
+/*********** TAGS SELCETORS***********/
+h1{
+  color:red;
+  font-size: 200px;
+}
+
+img:hover{
+  background-color: white;
+}
+/*************CLASS SELETORS***********/
+.bacon{
+  background-color: red;
+}
+.football{
+  background-color: green;
+}
+/************ id selectors**********/
+#heading{
+  color: blue;
+}
